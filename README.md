@@ -1,17 +1,99 @@
-# coffee_shop_3
+<div align="center">
 
-A new Flutter project.
+# 📱 Flutter Widget Basic
 
-## Getting Started
+### ส่งงาน Mini Project Coffee App V2
+<br>
 
-This project is a starting point for a Flutter application.
+<img src="https://img.shields.io/badge/Flutter-3.44.4-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-3.12.2-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+หน้า Register
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](assets/Page_Register.png)
+
+---
+
+หน้า Page Login Students
+
+![](assets/Page_Login_Students.png)
+
+---
+
+หน้า Home
+
+![](assets/Home.png)
+
+---
+
+หน้า Product Detail
+
+![](assets/Product_detail.png)
+
+---
+
+หน้า Favorite
+
+![](assets/Favorite.png)
+
+---
+
+หน้า Filters
+
+![](assets/Filters.png)
+
+---
+
+หน้า Cart
+
+![](assets/Cart.png)
+
+---
+
+หน้า Confirm
+
+![](assets/Confirm_Order.png)
+
+---
+
+หน้า History
+
+![](assets/History.png)
+
+---
+
+หน้า Receipt
+
+![](assets/Receipt.png)
+
+---
+
+หน้า Page Login Admin
+
+![](assets/Page_Login_Admin.png)
+
+---
+
+หน้า ManageProduct
+
+![](assets/Manage_Product.png)
+
+---
+
+หน้า EditProduct
+
+![](assets/Edit_product.png)
+
+---
+
+หน้า AddProduct
+
+![](assets/Add_Product.png)
+
+---
+
+หน้า DeleteProduct
+
+![](assets/Delete_Product.png)
